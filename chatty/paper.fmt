@@ -1,0 +1,4 @@
+%format SomeNameInTheCode    = the name or LaTex code to show
+%format undefined = un
+%format bottom    = "\ensuremath{\Varid{\perp}}"
+% Experimenting with different names: do we have `Law' explicitly in the name?
