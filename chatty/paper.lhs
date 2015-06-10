@@ -69,7 +69,7 @@
            {\texttt{tess.ting@@chalmers.se}}
 \authorinfo{Test Ing}
            {Chalmers University of Technology, Sweden}
-           {\texttt{test.ing@chalmers.se}}
+           {\texttt{test.ing@@chalmers.se}}
 
 \maketitle
 %endif
@@ -124,9 +124,6 @@ In this paper we make the following contributions:
 
 \paragraph{The |Monoid| class.}
 %include code/Monoid.lhs
-
-\paragraph{Testing laws for datatypes with functions.}
-%include code/TestEqual.lhs
 
 \paragraph{Using |testEqual| for the |Monoid| laws.}
 Another way to include code is using ``Bird tracks'':
