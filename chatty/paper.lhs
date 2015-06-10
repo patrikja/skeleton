@@ -21,7 +21,7 @@
 %%% Standard definitions from the lhs2TeX installation
 %include polycode.fmt
 %%% Put your own formatting directives in a separate file
-%include paper.fmt
+%include paper.format
 
 \usepackage{url}
 \usepackage[utf8]{inputenc}
@@ -43,6 +43,7 @@
 \newcommand{\refSecsI}[1]{Sections \ref{#1}}
 \newcommand{\refTab}[1]{Tab. \ref{#1}}
 
+\toappear{}
 \begin{document}
 
 %-------------------------------------------------------------------------------
