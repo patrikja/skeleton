@@ -21,7 +21,7 @@ sudo apt-get install lhs2TeX
 With a Haskell system already in place the last line can be replaced by
 
 ``` Shell
-cabal install lhs2TeX
+cabal install lhs2tex
 ```
 
 which is the [recommended way to install lhs2TeX](http://www.andres-loeh.de/lhs2tex/).
