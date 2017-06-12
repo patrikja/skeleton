@@ -1,6 +1,8 @@
 # Skeleton for papers using LaTeX and lhs2TeX
 A paper skeleton for writing a research paper with embedded Haskell code.
 
+TODO: Upgrade to the new acmart class
+
 Dependencies:
 * a LaTeX system (TeX Live 2015)
 * latexmk
